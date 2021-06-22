@@ -14,10 +14,11 @@ E.g. SELECT Count FROM `user_table` WHERE `first_name` = ‘Adam’;
 
 Does not return the record but rather some statistics on the record.
 
-SELECT Max - 
-SELECT Min(`user_id`) FROM `user_table`;
+Example using SELEC Min command:
 
-The above two return the highest and lowest values of a given field
+```SELECT Min(`user_id`) FROM `user_table`;```
+
+The above returns the lowest values of a given field. SELECT MAX would work the same way, but return the highest value instead.
 
 SELECT Avg - gives average value (might use on something like hours worked, salary, similar).
 
