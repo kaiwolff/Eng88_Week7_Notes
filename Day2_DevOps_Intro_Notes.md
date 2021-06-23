@@ -12,7 +12,7 @@ Microservices are an organisational structure, where each microservice is design
 
 
 
-While Agile methodology is well suited to being integrated into DevOps, the two are separate. it is also possible to wokr with DevOps principles and use, for example, the waterfall development method.
+While Agile methodology is well suited to being integrated into DevOps, the two are separate. it is also possible to work with DevOps principles and use, for example, the waterfall development method.
 
 ### Challenges for a DevOps Engineer
 
